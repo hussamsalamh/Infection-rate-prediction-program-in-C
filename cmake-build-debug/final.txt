@@ -1,0 +1,6 @@
+Hospitalization: Paula 620434839 100 1.000000.
+Quarantine: Ryan 533885365 90 0.102222.
+No-Treatment: Marcus 992150860 80 0.082272.
+No-Treatment: Kyle 919462684 70 0.082272.
+No-Treatment: Vernon 353304652 60 0.081828.
+No-Treatment: Dorothy 673174908 50 0.022222.

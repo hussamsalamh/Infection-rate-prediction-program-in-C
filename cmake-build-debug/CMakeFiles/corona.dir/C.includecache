@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Constants.h
+
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Meeting.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+Person.h
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Person.h
+
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Person.h
+Meeting.h
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Meeting.h
+
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/SpreaderDetector.h
+Meeting.h
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Meeting.h
+Person.h
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Person.h
+Constants.h
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/Constants.h
+
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/main.c
+SpreaderDetector.h
+/cygdrive/c/Users/Hussam Salamh/CLionProjects/corona/SpreaderDetector.h
+stdio.h
+-
+
